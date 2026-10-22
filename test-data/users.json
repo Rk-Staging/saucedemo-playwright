@@ -1,0 +1,15 @@
+{
+  "checkoutInfo": { "firstName": "Rajesh", "lastName": "Kumar", "postalCode": "110001" },
+  "products": {
+    "backpack": "Sauce Labs Backpack",
+    "bikeLight": "Sauce Labs Bike Light",
+    "boltTShirt": "Sauce Labs Bolt T-Shirt"
+  },
+  "errors": {
+    "lockedOut": "Epic sadface: Sorry, this user has been locked out.",
+    "usernameRequired": "Epic sadface: Username is required",
+    "passwordRequired": "Epic sadface: Password is required",
+    "firstNameRequired": "Error: First Name is required"
+  },
+  "taxRate": 0.08
+}
